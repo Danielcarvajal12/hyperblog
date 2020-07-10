@@ -1,5 +1,13 @@
 body{
+	text-align: left;
+	font-family: "arial";
+}
 
-	text-align: center;
-	font-family: "curier";
+h3{
+	color:red;
+}
+
+#fondolorem{
+	background-color: gray;
+>>>>>>> cabecera
 }
