@@ -1,5 +1,13 @@
 body{
 
-	text-align: center;
+	text-align: left;
 	font-family: "arial";
+}
+
+h3{
+	color:red;
+}
+
+#fondolorem{
+	background-color: gray;
 }
